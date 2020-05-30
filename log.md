@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log - Mike Zaleski
 ## Round 1
 
+### Day 2: May 30, 2020
+
+**Today's Progress**: JavaScript Refresher on CodeAcademy
+
+**Thoughts:** I spent this morning going through the first 20% or so of the JavaScript course on CodeAcademy.  I'm mostly interested in highlighting what I don't know, and helping to bring old knowledge back up to the surface.  I'm not going to dwell too much on this course (I'm hopefully going to put in some additional time on my app today too) but I think it's a good return to basics.
+
+
 ### Day 1: May 29, 2020
 
 **Today's Progress**: Started Family Video website in React
