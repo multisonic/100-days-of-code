@@ -2,6 +2,14 @@
 
 ## Round 1
 
+### Day 4: June 1, 2020
+
+**Today's Progress**: CodeAcademy JS: Scope and Arrays
+
+**Thoughts:** These concepts are coalescing a bit more firmly, plus my notes are a great reference when I get stuck. It’s really helping with idea generation too. Almost time for a new notebook!
+
+**Session Length:** 96 minutes
+
 ### Day 3: May 31, 2020
 
 **Today's Progress**: Continued JS refresher on CodeAcademy
