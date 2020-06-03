@@ -2,6 +2,14 @@
 
 ## Round 1
 
+### Day 6: June 3, 2020
+
+**Today's Progress**: CodeAcademy JS: Loops and Higher Order Functions
+
+**Thoughts:** I’m about 50% through the CodeAcademy JS class and I just hit some mental resistance where I didn’t breeze through the material. Some of the advanced looping and now into Higher Order Functions are new to me, at least from the point of actually working through the steps with minimal guidance. It feels good!
+
+**Session Length:** 90 minutes
+
 ### Day 5:June 2, 2020
 
 **Today's Progress**: CodeAcademy JS: Arrays and Loops
@@ -15,6 +23,8 @@
 **Today's Progress**: CodeAcademy JS: Scope and Arrays
 
 **Thoughts:** These concepts are coalescing a bit more firmly, plus my notes are a great reference when I get stuck. It’s really helping with idea generation too. Almost time for a new notebook!
+
+I also built an iOS shortcut to make these log entries and generate the tweet and archive them to my Day One journal as well. That was fun and a different kind of programming!
 
 **Session Length:** 96 minutes
 
