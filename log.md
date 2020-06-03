@@ -2,6 +2,14 @@
 
 ## Round 1
 
+### Day 5:June 2, 2020
+
+**Today's Progress**: CodeAcademy JS: Arrays and Loops
+
+**Thoughts:** I didn’t quite do an hour of work today. I was really distracted and distraught by the world, but did manage to get through finish the arrays module and do most of the looping module. I’ll be back at it in the morning. 
+
+**Session Length:** 30 minutes
+
 ### Day 4: June 1, 2020
 
 **Today's Progress**: CodeAcademy JS: Scope and Arrays
