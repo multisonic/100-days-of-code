@@ -2,6 +2,21 @@
 
 ## Round 1
 
+### Day 8:June 5, 2020
+
+**Today's Progress**: Code Academy JS: continuing iterators
+
+**Thoughts:** I spent most of my time this morning working on the iterator challenge: creating a linter to count words and match certain conditions for a string of text. I over complicated one section (matching over complicated words, actually) and now I want to get my version to work. I’m stuck midway so I’ll walk away and think about it for a while. This is so much fun, though, and I feel like I’m actually making progress!
+
+**Session Length:** 75 minutes
+
+
+### Day 7: June 4, 2020
+
+**Today's Progress**: Code Academy JS: continuing iterators
+
+**Thoughts:** 
+
 ### Day 6: June 3, 2020
 
 **Today's Progress**: CodeAcademy JS: Loops and Higher Order Functions
@@ -12,11 +27,11 @@
 
 ### Day 5:June 2, 2020
 
-**Today's Progress**: CodeAcademy JS: Arrays and Loops
+**Today's Progress**: CodeAcademy JS: Iterators
 
-**Thoughts:** I didn’t quite do an hour of work today. I was really distracted and distraught by the world, but did manage to get through finish the arrays module and do most of the looping module. I’ll be back at it in the morning. 
+**Thoughts:** The iterator concepts are getting a little tough, which is good. i like the way CodeAcademy builds on the info. Plus my notes have been an invaluable resource as I progress.
 
-**Session Length:** 30 minutes
+**Session Length:** 80 minutes
 
 ### Day 4: June 1, 2020
 
