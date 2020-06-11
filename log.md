@@ -2,7 +2,39 @@
 
 ## Round 1
 
-### Day 8:June 5, 2020
+### Day 12: June 11, 2020
+
+**Today's Progress**: Code Academy JS: Objects
+
+**Thoughts:** Some really interesting stuff that I haven't seen taught so clearly before. I'm glad, after the Credit Card Checker activity, to explore more about mutation (both objects and arrays).
+
+**Session Length:** 90 minutes
+
+### Day 11: June 10, 2020
+
+**Today's Progress**: Code Academy JS: Credit Card Checker Practice
+
+**Thoughts:** Finished the Credit Card Checker practice activity. I got hung up on how to complete some of the finer points, like not adding duplicate credit card companies to an array when an invalid card is found. Highlighted some things I need to review (bang operator) and functions passing in arrays, because I wasn't always understanding why something was or wasn't working.
+
+**Session Length:** 65 minutes
+
+### Day 10: June 7, 2020
+
+**Today's Progress**: Code Academy JS: Credit Card Checker Practice
+
+**Thoughts:** Still working on this Credit Card checker. I was not totally focused today, but I'm doing a lot of trial and error with array methods and iterators. Lots of code checking at every point, but I have it mostly finished!
+
+**Session Length:** 45 minutes
+
+### Day 9: June 6, 2020
+
+**Today's Progress**: Code Academy JS: Credit Card Checker Practice
+
+**Thoughts:** I started Code Academy's [Credit Card Checker](https://www.codecademy.com/practice/projects/credit-card-checker) practice activity today. I'm moving at a slow pace, but I'm enjoying putting everything together. This is not a 40 minute practice for me right now, but I could fly through some of the components (like building the `validateCred()` function) faster than I expected.
+
+**Session Length:** 65 minutes
+
+### Day 8: June 5, 2020
 
 **Today's Progress**: Code Academy JS: continuing iterators
 
@@ -10,12 +42,11 @@
 
 **Session Length:** 75 minutes
 
-
 ### Day 7: June 4, 2020
 
 **Today's Progress**: Code Academy JS: continuing iterators
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 6: June 3, 2020
 
